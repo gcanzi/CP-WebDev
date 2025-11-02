@@ -18,3 +18,11 @@ Este projeto apresenta 4 métodos clássicos de criptografia implementados em Ja
 - `index.html` – Interface simples para testar as cifras.  
 - `main.js` – Contém toda a lógica das quatro partes.  
 - `README.md` – Explicações sobre o funcionamento e uso do projeto.
+
+## 👥 Participantes
+| Nome                           | RM       |
+| ------------------------------ | -------- |
+| **Eduarda da Silva Brito**     | RM567347 |
+| **Gustavo Castilho Gonçalves** | RM566970 |
+| **Gustavo Moretim Canzi**      | RM567683 |
+| **Lucca Ghiraldi Urso**        | RM556739 |
