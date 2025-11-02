@@ -26,3 +26,10 @@ Este projeto apresenta 4 métodos clássicos de criptografia implementados em Ja
 | **Gustavo Castilho Gonçalves** | RM566970 |
 | **Gustavo Moretim Canzi**      | RM567683 |
 | **Lucca Ghiraldi Urso**        | RM556739 |
+
+
+## 🌐 Acesse o Projeto Online  
+
+O site está disponível através do GitHub Pages:  
+
+🔗 [Acesse aqui](https://gcanzi.github.io/CP-WebDev/) 
