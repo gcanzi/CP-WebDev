@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CP 2 - WebDev</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>🔐 Criptografia Clássica em JavaScript - CP2</h1>
+        <p>Experimente diferentes métodos de criptografia abaixo!</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Parte 1 - Cifra de Atbash</h2>
+            <input type="text" id="textoAtbash" placeholder="Digite o texto">
+            <button onclick="executarAtbash()">Criptografar</button>
+            <p id="saidaAtbash" class="resultado"></p>
+        </section>
+
+        <section>
+            <h2>Parte 2 - Cifra de César</h2>
+            <input type="text" id="textoCesar" placeholder="Digite o texto">
+            <input type="number" id="chaveCesar" placeholder="Chave (número)">
+            <button onclick="executarCesar()">Criptografar</button>
+            <p id="saidaCesar" class="resultado"></p>
+        </section>
+
+        <section>
+            <h2>Parte 3 - Cifra de Vigenère</h2>
+            <input type="text" id="textoVigenere" placeholder="Digite o texto">
+            <input type="text" id="chaveVigenere" placeholder="Palavra-chave">
+            <button onclick="executarVigenere()">Criptografar</button>
+            <p id="saidaVigenere" class="resultado"></p>
+        </section>
+
+        <section>
+            <h2>Parte 4 - RSA Didático</h2>
+            <input type="number" id="p" placeholder="Digite p (primo)">
+            <input type="number" id="q" placeholder="Digite q (primo)">
+            <button onclick="executarRSA()">Gerar Chaves</button>
+            <pre id="saidaRSA" class="resultado"></pre>
+        </section>
+    </main>
+
+</body>
+</html>
